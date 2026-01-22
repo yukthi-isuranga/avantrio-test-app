@@ -14,23 +14,27 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1.i will choose microservices base architecture because react is an single thred language and it to one task at onece. but it is more good to done asynchronous works. and return its promises results at time. 
+and its done event looping and do grate job. 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+2.src/
+	app/
+		auth/
+			login/page.tsx
+			register/page.tsx
+	shop/page.tsx
+	products/[id]/page.tsx
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+3. it depends on what we needs to do.
+if the requrements and other staff are clear then we can chouses SQL.
+we can chose NoSQL for this and it is easy and its takes data as Json fomat. and we can use firebase or mongo for this.
 
-To learn more about Next.js, take a look at the following resources:
+4. for the font end use next.js 
+because it have SSR and CSR and better SEO, and fasters landing pages(server side rendering pages).
+and do asinc functions 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+5.this is production grade software because of that we can chose AWS because its trending and its can scalability. security, and reliability. and also have pay as you go.i herd that react hosting also easy on that.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+6. as we develop we can use front endoptimization in the beginning. using Serverside rendering pages more. and using auto scaling databases for the db.
