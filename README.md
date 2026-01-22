@@ -31,6 +31,9 @@ if the requrements and other staff are clear then we can chouses SQL.
 we can chose NoSQL for this and it is easy and its takes data as Json fomat. and we can use firebase or mongo for this.
 
 4. for the font end use next.js 
+its have better UI libraris and and most of them are free to use. so then we dont need to do start from the scratch. in my repo i also used one of that. shadcn so its easy to build and create next app. and there is also have templates too. 
+we can use them if we needs to. 
+and make better uis too.
 because it have SSR and CSR and better SEO, and fasters landing pages(server side rendering pages).
 and do asinc functions 
 
