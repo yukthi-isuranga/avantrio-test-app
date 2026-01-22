@@ -49,6 +49,9 @@ on goin one. :  https://angular-test-app-hazel.vercel.app/products/all
 
 my portfolio https://yukthi-portfolio.vercel.app/
 
+new repo for this. https://github.com/yukthi-isuranga/ecommerce-app.git
+deployed link on Vercel : https://ecommerce-app-2-kaig.vercel.app/
+
 react project that i intergrate payhere full compleate : https://hasy-craft-store.vercel.app/ 
 back end: https://hasy-craft-admin.vercel.app/
 
