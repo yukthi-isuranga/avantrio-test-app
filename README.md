@@ -41,3 +41,15 @@ and do asinc functions
 5.this is production grade software because of that we can chose AWS because its trending and its can scalability. security, and reliability. and also have pay as you go.i herd that react hosting also easy on that.
 
 6. as we develop we can use front endoptimization in the beginning. using Serverside rendering pages more. and using auto scaling databases for the db.
+
+
+I haven’t used React professionally because my recent work has been focused on a different tech stack called Marble(2.5 years but i have some projects do in my free time in react.i will add them as well in this ), which I’ve been specializing in. However, I am confident in my ability to quickly learn and adapt to React if the role requires it, as I have strong fundamentals in frontend development and experience with similar frameworks.
+
+on goin one. :  https://angular-test-app-hazel.vercel.app/products/all
+
+my portfolio https://yukthi-portfolio.vercel.app/
+
+react project that i intergrate payhere full compleate : https://hasy-craft-store.vercel.app/ 
+back end: https://hasy-craft-admin.vercel.app/
+
+
